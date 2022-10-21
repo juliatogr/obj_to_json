@@ -1,0 +1,14 @@
+{
+  "client" : "IT Academy",
+  "numMachines" : 30,
+  "products" : [ {
+    "name" : "Ordinador",
+    "price" : 400.0
+  }, {
+    "name" : "Televisió",
+    "price" : 800.0
+  }, {
+    "name" : "Projector",
+    "price" : 300.0
+  } ]
+}
